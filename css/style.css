@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 :root{
+    --orange:#d14605;
     --green:#099e47;
     --black:#444;
     --blue:rgb(58, 35, 102);
@@ -256,7 +257,7 @@ header{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background:rgb(1, 2, 65);
+    background:rgb(0, 0, 0);
     z-index: 1000;
 }
 
@@ -281,7 +282,7 @@ header .navbar a:hover{
     top:1rem; left:1rem;
     padding:1rem 1.5rem;
     border-radius: .5rem;
-    color:rgb(206, 206, 206);
+    color:rgb(139, 19, 19);
     background:rgb(6, 4, 61);
     cursor: pointer;
     font-size: 3rem;
@@ -322,24 +323,26 @@ header .navbar a:hover{
     border-radius: 10rem 20rem;
     object-fit: cover;
     border:1rem solid var(--rad);
-    border-left: rgb(85, 12, 18);
+    border-left: rgb(83, 6, 12);
     cursor: pointer;
 }
 
 .home .content h3{
     font-size: 4rem ;
-    color:rgb(73, 3, 69);
+    color:rgb(119, 3, 129);
     text-transform: uppercase;
+
 }
 
 .home .content h3 span{
     color:var(--gold);
+    
     text-transform: uppercase;
 }
 
 .home .content p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgba(34, 11, 2, 0.76);
+    color:rgba(6, 5, 73, 0.76);
     font-size: 3.2rem;
     line-height: 3;
 }
