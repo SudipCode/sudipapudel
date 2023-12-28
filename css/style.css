@@ -893,7 +893,7 @@ header .navbar a:hover{
 
 .side-bar{
    height: 100vh;
-   width: 300px;
+   width:260px;
    position: fixed;
    top:0; left:0;
    z-index: 1000;
@@ -904,7 +904,7 @@ header .navbar a:hover{
 }
 
 .side-bar::-webkit-scrollbar{
-   width: 5px;
+   width: 6px;
 }
 
 .side-bar .box{
