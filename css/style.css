@@ -282,8 +282,8 @@ header .navbar a:hover{
     top:1rem; left:1rem;
     padding:1rem 1.5rem;
     border-radius: .5rem;
-    color:rgb(139, 19, 19);
-    background:rgb(6, 4, 61);
+    color:rgb(250, 249, 249);
+    background:rgb(22, 18, 148);
     cursor: pointer;
     font-size: 3rem;
     display: none;
