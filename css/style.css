@@ -89,7 +89,7 @@ section{
  
  .btn:hover{
     box-shadow: rgb(110, 2, 111);
-    color:rgb(38, 140, 98);
+    color:rgb(139, 177, 161);
     letter-spacing: .2rem;
  }
  .loader-container{
@@ -257,7 +257,7 @@ header{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background:rgb(0, 0, 0);
+    background:rgb(3, 7, 61);
     z-index: 1000;
 }
 
@@ -269,11 +269,11 @@ header .navbar{
 header .navbar a{
     padding:1.5rem;
     font-size: 2rem;
-    color:rgb(236, 248, 0);
+    color:rgb(240, 237, 232);
 }
 
 header .navbar a:hover{
-    color:var(--green);
+    color:var(--gold);
 }
 
 #menu-bars{
