@@ -4,7 +4,8 @@
     --orange:#d14605;
     --green:#099e47;
     --black:#444;
-    --blue:rgb(58, 35, 102);
+    ---skyblue:#3076c5;
+    --blue:rgb(9, 29, 85);
     --gold:rgb(224, 187, 21);
     --rad:rgb(182, 7, 7);
     --light-black:#666;
@@ -320,10 +321,11 @@ header .navbar a:hover{
 .home .content img{
     
     width:30rem;
-    border-radius: 10rem 20rem;
+    border-radius: 15rem 10rem;
     object-fit: cover;
-    border:1rem solid var(--rad);
+    border:1rem solid var(---skyblue);
     border-left: rgb(83, 6, 12);
+    box-shadow: 0 .5rem 2rem rgb(8, 0, 83);
     cursor: pointer;
 }
 
