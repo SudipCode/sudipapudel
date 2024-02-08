@@ -89,7 +89,7 @@ section{
  }
  
  .btn:hover{
-    box-shadow: rgb(110, 2, 111);
+    box-shadow: rgb(197, 159, 159);
     color:rgb(139, 177, 161);
     letter-spacing: .2rem;
  }
